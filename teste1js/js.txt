@@ -1,0 +1,58 @@
+frameworks 
+
+-jquery
+
+-Nodejs
+
+-angularJS
+
+-react native
+
+//number
+const x = 10; 
+console.log(x);
+//number(numero)
+const y = 2.5;console.log(y);
+
+//string (seguencia de caracteres)
+const nome = "Pedro";
+console.log(nome);
+const sobrenome =  'Souza';
+console.log(sobrenome);
+//boolean
+const falso = false;
+console.log(falso);
+const verdadeiro = true;
+console.log(verdadeiro);
+//null
+const nulo = null;
+console.log(nulo);
+//undefined
+const naoDefinido = undefined;
+console.log(naoDefinido);
+console.log(typeof("name in varible"));
+
+-------------------------------------Variaveis        tipo de dados 
+- const          -string -number   
+- let            -boolean -null
+                 -undefined    
+------------------------------------
+Operadores 
+
+++ incrementar
+
+--decrementar
+
+% resto de divisão
+
+comparações 
+
+== igual ("console.log(a == b);")
+!= diferente (console.log(a != b);)
+&& ou" e "
+|| ou "OU"
+! == (não)
+-----------------------------------------
+length = comprimento ou  contador de strings
+toUpperCase() = maiuscula ou toLowerCase()
+.split divisor
